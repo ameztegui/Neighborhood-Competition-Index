@@ -93,7 +93,7 @@ nci_extract <- function (targets, alpha, beta, lambda = 1, min.target.dbh = 9, m
         
 }
 
-
+# Example for Pinus sylvestris
 
 nci_extract (targets , alpha = 1.79, beta = 0.61,lambda = 0.81)
 
